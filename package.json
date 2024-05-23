@@ -32,10 +32,10 @@
   "n8n": {
     "n8nNodesApiVersion": 1,
     "credentials": [
-      "dist/credentials/DocusignApi.credentials.ts"
+      "dist/credentials/DocusignApi.credentials.js"
     ],
     "nodes": [
-      "dist/nodes/Docusign/Docusign.node.ts"
+      "dist/nodes/Docusign/Docusign.node.js"
     ]
   },
   "devDependencies": {
